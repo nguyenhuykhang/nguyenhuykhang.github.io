@@ -24,8 +24,11 @@ Industry Experience
 Selected Awards
 ------
 
-<div style="transform: scale(0.5); transform-origin: top left;">
-  <script type="text/javascript" id="clstr_globe"
-    src="//clustrmaps.com/globe.js?d=UYpakJt3SK1n2ChLPes2HMRfKJ1p92zb2b2u-a9NA-c">
-  </script>
+<div style="display: flex; justify-content: center; align-items: center; height: 100%; padding: 20px;">
+  <div style="transform: scale(0.25); transform-origin: center;">
+    <script type="text/javascript" id="clstr_globe"
+      src="//clustrmaps.com/globe.js?d=UYpakJt3SK1n2ChLPes2HMRfKJ1p92zb2b2u-a9NA-c">
+    </script>
+  </div>
 </div>
+
