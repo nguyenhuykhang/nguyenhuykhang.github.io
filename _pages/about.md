@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Khang Nguyen"
 author_profile: true
 redirect_from: 
   - /about/
