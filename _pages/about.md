@@ -22,7 +22,7 @@ News
 
 Publications
 ------
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2025</div<>img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2025</div<img src='images/msu_logo.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SocialMind: LLM-based Proactive AR Social Assistive System with Human-like Perception for In-situ Live Interactions](https://dl.acm.org/doi/abs/10.1145/3712286)
