@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+I am a senior undergraduate in Computer Science at Michigan State University (MSU). I have had the wonderful opportunity to be advised by [Dr. Zhichao Cao](https://cse.msu.edu/~caozc/) in Edge Intelligence and Networking (EIN) group. I also have a chance to work with [Dr. Qiben Yan](https://cse.msu.edu/~qyan/) in SEcure and Intelligent Things (SEIT) lab. In Summer 2025, I interned with [Dr. Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/index.html) at Purdue Mobile System, Security and Networking (MSSN) Group.
 
+My research interests span AIoT, AI for wireless communication and sensing, and AI security in autonomous driving. Currently, I am working on UWB/mmWave SAR imaging with AI-driven reconstruction methods and exploring the robustness of AI and vision-language models (VLMs) in autonomous driving scenarios.
 
 News
 ------
