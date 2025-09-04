@@ -22,20 +22,10 @@ News
 
 Publications
 ------
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2025</div<img src='images/msu_logo.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SocialMind: LLM-based Proactive AR Social Assistive System with Human-like Perception for In-situ Live Interactions](https://dl.acm.org/doi/abs/10.1145/3712286)
-
-Bufang Yang*, Yunqi Guo*, **<u>Lilin Xu</u>*** (*equal contribution), Zhenyu Yan, Hongkai Chen, Guoliang Xing, Xiaofan Jiang
-
-ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
-
-[[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3712286)]
 
 
-</div>
-</div>
+
+
 
 Research Experience
 ------
