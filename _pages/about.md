@@ -12,7 +12,7 @@ I am a senior undergraduate in Computer Science at Michigan State University (MS
 Besides, I am also fortunate to work with many talented researchers and mentors: [Yidong Ren](https://ydren001.github.io/) (Qualcomm), [Ce Zhou](https://sites.google.com/view/cezhou/) (Missouri S&T), and [Yimeng Liu](https://lyimeng23.github.io/) (MSU).
 They have guided me to become an independent researcher. 
 
-My research interests span AIoT, AI for wireless communication and sensing, and AI security in autonomous driving. Currently, I am working on UWB/mmWave SAR imaging with AI-driven reconstruction methods and exploring the robustness of AI and vision-language models (VLMs) in autonomous driving scenarios.
+My research interests span AIoT (AI + IoT), AI for wireless communication and sensing, and AI security in autonomous driving. Currently, I am working on UWB/mmWave SAR imaging with AI-driven reconstruction methods and exploring the robustness of AI and vision-language models (VLMs) in autonomous driving scenarios.
 
 News
 ------
@@ -22,6 +22,20 @@ News
 
 Publications
 ------
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2025</div>></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SocialMind: LLM-based Proactive AR Social Assistive System with Human-like Perception for In-situ Live Interactions](https://dl.acm.org/doi/abs/10.1145/3712286)
+
+Bufang Yang*, Yunqi Guo*, **<u>Lilin Xu</u>*** (*equal contribution), Zhenyu Yan, Hongkai Chen, Guoliang Xing, Xiaofan Jiang
+
+ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
+
+[[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3712286)]
+
+
+</div>
+</div>
 
 Research Experience
 ------
