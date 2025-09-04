@@ -32,11 +32,11 @@ Publications
 
 Selected Awards
 ------
-- ***GStar Bootcamp Full Scholarship**, NTI Global Talent Program, 2025.
-- ***Summer Undergraduate Research Fellowships**, Purdue University, 2025.
-- ***Engineering Summer Undergraduate Research Fellowships**, Michigan State University, 2024.
-- ***Honors College Winters Research Scholars**, Michigan State University, 2024.
-- ***Honors College Wielenga Research Scholars**, Michigan State University, 2023.
+- **GStar Bootcamp Full Scholarship**, NTI Global Talent Program, 2025.
+- **Summer Undergraduate Research Fellowships**, Purdue University, 2025.
+- **Engineering Summer Undergraduate Research Fellowships**, Michigan State University, 2024.
+- **Honors College Winters Research Scholars**, Michigan State University, 2024.
+- **Honors College Wielenga Research Scholars**, Michigan State University, 2023.
 - **Dean’s List**, Michigan State University, 2022-2025.
 
 <div style="transform: scale(0.25); transform-origin: top center;">
