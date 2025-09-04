@@ -22,7 +22,7 @@ repository               : "nguyenhuykhang/nguyenhuykhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "LA.jpg"
   name             : "Khang Nguyen"
   pronouns         : # example: "she/her"  
   bio              : "Senior Computer Science Undergraduate at Michigan State University"
