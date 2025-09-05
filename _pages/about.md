@@ -23,7 +23,23 @@ News
 Publications
 ------
 
-
+<section id="publications">
+  <div class="pub-item">
+    <img src="LA.jpg" alt="DrHouse paper thumbnail" class="pub-thumb">
+    <div class="pub-details">
+      <a href="https://link-to-paper" class="pub-title">
+        DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge
+      </a>
+      <p class="pub-authors">
+        Bufang Yang, Siyang Jiang, <b>Lilin Xu</b>, Kaiwei Liu, Hai Li, Guoliang Xing, Hongkai Chen, Xiaofan Jiang, Zhenyu Yan
+      </p>
+      <p class="pub-venue">
+        ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2024
+      </p>
+      <p><a href="https://link-to-paper">[Paper]</a></p>
+    </div>
+  </div>
+</section>
 
 
 
