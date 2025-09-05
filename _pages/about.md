@@ -30,8 +30,24 @@ Publications
 
 **Khang Nguyen**, Yidong Ren, Jialuo Du, Jingkai Lin, Maolin Gan, Shigang Chen, Mi Zhang, Chunyi Peng, Zhichao Cao
 
-The 31th Annual International Conference on Mobile Computing and Networking, 2025 (CORE A*, Acceptance ratio: 10.34%)
+The 31th Annual International Conference on Mobile Computing and Networking, 2025 <span style="color:red">
+(CORE A*, Acceptance ratio: 10.34%)</span>
 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VehicleSec 2025</div><img src='images/LA.jpg' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robustness Analysis of Camera-Radar Sensor Fusion Algorithms under Adversarial Attacks in Autonomous Driving]()
+
+Ce Zhou*, **Khang Nguyen***, Liyang Xiao, and Qiben Yan
+
+The 3rd USENIX Symposium on Vehicle Security and Privacy 
+
+* denote equal contribution
 
 </div>
 </div>
