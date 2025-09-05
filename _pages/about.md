@@ -25,7 +25,7 @@ Publications
 
 <section id="publications">
   <div class="pub-item">
-    <img src="LA.jpg" alt="DrHouse paper thumbnail" class="pub-thumb">
+    <img src="images/LA.jpg" alt="DrHouse paper thumbnail" class="pub-thumb">
     <div class="pub-details">
       <a href="https://link-to-paper" class="pub-title">
         DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge
