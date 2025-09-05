@@ -47,7 +47,7 @@ Ce Zhou*, **Khang Nguyen***, Liyang Xiao, and Qiben Yan
 
 The 3rd USENIX Symposium on Vehicle Security and Privacy 
 
-* denote equal contribution
+(* denotes equal contribution)
 
 </div>
 </div>
