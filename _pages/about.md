@@ -23,16 +23,14 @@ News
 Publications
 ------
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2025</div><img src='images/LA.jpg' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2025</div><img src='images/LA.jpg' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SocialMind: LLM-based Proactive AR Social Assistive System with Human-like Perception for In-situ Live Interactions](https://dl.acm.org/doi/abs/10.1145/3712286)
+[LoRaSeek: Boosting Denoising Ability in Neural-enhanced LoRa Decoder via Hierarchical Feature Extraction]()
 
-Bufang Yang*, Yunqi Guo*, **<u>Lilin Xu</u>*** (*equal contribution), Zhenyu Yan, Hongkai Chen, Guoliang Xing, Xiaofan Jiang
+**Khang Nguyen**, Yidong Ren, Jialuo Du, Jingkai Lin, Maolin Gan, Shigang Chen, Mi Zhang, Chunyi Peng, Zhichao Cao
 
-ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
-
-[[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3712286)]
+The 31th Annual International Conference on Mobile Computing and Networking, 2025 (CORE A*, Acceptance ratio: 10.34%)
 
 
 </div>
