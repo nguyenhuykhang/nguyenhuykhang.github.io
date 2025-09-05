@@ -87,6 +87,7 @@ Selected Awards
 - **Honors College Wielenga Research Scholars**, Michigan State University, 2023.
 - **Dean’s List**, Michigan State University, 2022-2025.
 
+------
 <div style="transform: scale(0.25); transform-origin: top center;">
   <script type="text/javascript" id="clstr_globe"
     src="//clustrmaps.com/globe.js?d=UYpakJt3SK1n2ChLPes2HMRfKJ1p92zb2b2u-a9NA-c">
