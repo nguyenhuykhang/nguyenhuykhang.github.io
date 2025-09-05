@@ -23,23 +23,20 @@ News
 Publications
 ------
 
-<section id="publications">
-  <div class="pub-item">
-    <img src="images/LA.jpg" alt="DrHouse paper thumbnail" class="pub-thumb">
-    <div class="pub-details">
-      <a href="https://link-to-paper" class="pub-title">
-        DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge
-      </a>
-      <p class="pub-authors">
-        Bufang Yang, Siyang Jiang, <b>Lilin Xu</b>, Kaiwei Liu, Hai Li, Guoliang Xing, Hongkai Chen, Xiaofan Jiang, Zhenyu Yan
-      </p>
-      <p class="pub-venue">
-        ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2024
-      </p>
-      <p><a href="https://link-to-paper">[Paper]</a></p>
-    </div>
-  </div>
-</section>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2025</div><img src='images/SocialMind.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SocialMind: LLM-based Proactive AR Social Assistive System with Human-like Perception for In-situ Live Interactions](https://dl.acm.org/doi/abs/10.1145/3712286)
+
+Bufang Yang*, Yunqi Guo*, **<u>Lilin Xu</u>*** (*equal contribution), Zhenyu Yan, Hongkai Chen, Guoliang Xing, Xiaofan Jiang
+
+ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
+
+[[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3712286)]
+
+
+</div>
+</div>
 
 
 
