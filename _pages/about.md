@@ -43,7 +43,7 @@ The 31th Annual International Conference on Mobile Computing and Networking, 202
 
 [Robustness Analysis of Camera-Radar Sensor Fusion Algorithms under Adversarial Attacks in Autonomous Driving]()
 
-Ce Zhou*, **Khang Nguyen***, Liyang Xiao, and Qiben Yan
+Ce Zhou\*, **Khang Nguyen\***, Liyang Xiao, and Qiben Yan
 
 The 3rd USENIX Symposium on Vehicle Security and Privacy 
 
