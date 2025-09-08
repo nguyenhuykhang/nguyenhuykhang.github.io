@@ -38,7 +38,7 @@ The 31th Annual International Conference on Mobile Computing and Networking, 202
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VehicleSec 2025</div><img src='images/LA.jpg' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VehicleSec 2025</div><img src='images/vehiclesec25.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robustness Analysis of Camera-Radar Sensor Fusion Algorithms under Adversarial Attacks in Autonomous Driving]()
