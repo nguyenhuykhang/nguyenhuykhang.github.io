@@ -53,7 +53,7 @@ The 3rd USENIX Symposium on Vehicle Security and Privacy
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arvix 2025</div><img src='images/LA.jpg' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arvix 2025</div><img src='images/msu_logo.jpg' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adversarial Robustness of Camera–Radar Sensor Fusion for Autonomous Driving: A Measurement Study]()
@@ -63,7 +63,7 @@ Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arvix 2025</div><img src='images/LA.jpg' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arvix 2025</div><img src='images/msu_logo.jpg' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NELoRa++: Towards General Neural-enhanced LoRa Demodulation]()
