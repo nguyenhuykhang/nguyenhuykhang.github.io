@@ -60,6 +60,8 @@ The 3rd USENIX Symposium on Vehicle Security and Privacy
 
 Under Review
 
+Co-first author
+
 </div>
 </div>
 
@@ -68,11 +70,9 @@ Under Review
 
 [NELoRa++: Towards General Neural-enhanced LoRa Demodulation]()
 
-Maolin Gan\*, **Khang Nguyen\***, Jialuo Du, Yidong Ren, Huacheng Zeng, Mi Zhang, Shigang Chen, and Zhichao Cao
-
 Under Review
 
-(* denotes equal contribution)
+Co-first author
 
 </div>
 </div>
