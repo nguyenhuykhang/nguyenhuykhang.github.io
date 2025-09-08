@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate in Computer Science at Michigan State University (MSU) where I have had the wonderful opportunity to be advised by [Dr. Zhichao Cao](https://cse.msu.edu/~caozc/) in Edge Intelligence and Networking (EIN) group. I also have a chance to work with [Dr. Qiben Yan](https://cse.msu.edu/~qyan/) in SEcure and Intelligent Things (SEIT) Lab. In Summer 2025, I interned with [Dr. Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/index.html) at Purdue Mobile System, Security and Networking (MSSN) Group.
+Welcome! I am a senior undergraduate in Computer Science at Michigan State University (MSU) where I have had the wonderful opportunity to be advised by [Dr. Zhichao Cao](https://cse.msu.edu/~caozc/) in Edge Intelligence and Networking (EIN) group. I also have a chance to work with [Dr. Qiben Yan](https://cse.msu.edu/~qyan/) in SEcure and Intelligent Things (SEIT) Lab. In Summer 2025, I interned with [Dr. Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/index.html) at Purdue Mobile System, Security and Networking (MSSN) Group.
 
 Besides, I am also fortunate to work with many talented researchers and mentors: [Yidong Ren](https://ydren001.github.io/) (Qualcomm), [Ce Zhou](https://sites.google.com/view/cezhou/) (Missouri S&T), and [Yimeng Liu](https://lyimeng23.github.io/) (MSU).
 They have guided me to become an independent researcher. 
