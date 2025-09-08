@@ -12,7 +12,7 @@ I am a senior undergraduate in Computer Science at Michigan State University (MS
 Besides, I am also fortunate to work with many talented researchers and mentors: [Yidong Ren](https://ydren001.github.io/) (Qualcomm), [Ce Zhou](https://sites.google.com/view/cezhou/) (Missouri S&T), and [Yimeng Liu](https://lyimeng23.github.io/) (MSU).
 They have guided me to become an independent researcher. 
 
-My research interests span AIoT (AI + IoT), AI for wireless communication and sensing, and AI security in autonomous driving. Currently, I am working on UWB/mmWave SAR imaging with AI-driven reconstruction methods and exploring the robustness of AI and vision-language models (VLMs) in autonomous driving scenarios.
+My research interests span AIoT (AI + IoT), AI for wireless communication and sensing, and AI security in autonomous driving. Currently, I am working on UWB/mmWave radar imaging with AI-driven reconstruction methods and exploring the robustness of AI and vision-language models (VLMs) in autonomous driving scenarios.
 
 News
 ------
