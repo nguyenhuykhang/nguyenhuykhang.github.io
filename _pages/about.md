@@ -23,7 +23,7 @@ News
 Publications
 ------
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2025</div><img src='images/LA.jpg' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2025</div><img src='images/loraseek.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LoRaSeek: Boosting Denoising Ability in Neural-enhanced LoRa Decoder via Hierarchical Feature Extraction]()
