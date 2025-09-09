@@ -45,7 +45,7 @@ The 31th Annual International Conference on Mobile Computing and Networking, 202
 
 Ce Zhou\*, **Khang Nguyen\***, Liyang Xiao, and Qiben Yan
 
-The 3rd USENIX Symposium on Vehicle Security and Privacy 
+The 3rd USENIX Symposium on Vehicle Security and Privacy, 2025
 
 (* denotes equal contribution)
 
@@ -58,9 +58,11 @@ The 3rd USENIX Symposium on Vehicle Security and Privacy
 
 [Adversarial Robustness of Camera–Radar Sensor Fusion for Autonomous Driving: A Measurement Study]()
 
+Ce Zhou*, Yubo Wu*, ***Khang Nguyen\***, Liyang Xiao, Qiben Yan, Thomas Hou
+
 Under Review
 
-Co-first author
+(* denotes equal contribution)
 
 </div>
 </div>
