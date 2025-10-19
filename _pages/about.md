@@ -81,8 +81,9 @@ Co-first author
 
 Industry Experience
 ------
-- **Data Garage** - Software Engineer Intern, June 2024 – Aug 2024.
-- **Open Avenues** - Software Engineer Intern, Feb 2024 – April 2024.
+- **New Turing Institute** - LLM Researcher, Aug. 2025 – Present.
+- **Data Garage** - Software Engineer Intern, June 2024 – Aug. 2024.
+- **Open Avenues** - Software Engineer Intern, Feb. 2024 – April 2024.
 - **Fujitsu** - Software Engineer Intern, May 2023 – July 2023.
 
 
