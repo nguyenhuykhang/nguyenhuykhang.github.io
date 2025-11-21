@@ -72,9 +72,11 @@ Under Review
 
 [NELoRa++: Towards General Neural-enhanced LoRa Demodulation]()
 
+Maolin Gan\*, Khang Nguyen\*, Jialuo Du, Yidong Ren, and Zhichao Cao
+
 Under Review
 
-Co-first author
+(* denotes equal contribution)
 
 </div>
 </div>
