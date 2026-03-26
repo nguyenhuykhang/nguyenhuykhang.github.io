@@ -4,11 +4,11 @@ navbar_name: "Khang Nguyen"
 
 positions:
 # - logo: /assets/images/badges/msu.svg
-  name: <strong>Senior CS Undergead @ MSU</strong>
+  name: <strong>Senior CS Undergrad @ MSU</strong>
 
 email: "nguy1055@msu.edu"
 # cv_link: /assets/images/files/CV_Yaohui.pdf
-gscholar: WPNvcXMAAAAJ
+gscholar: Y4-tbi0AAAAJ
 github: nguyenhuykhang
 # twitter: your_twitter_id
 # linkedin: yaohui-han-379079325
@@ -37,19 +37,30 @@ education:
   date: 2022 - 2026
 
 experience:
-- name: Purdue University
-  logo: /assets/images/badges/purdue.png
+- name: New Turing Institute
+  # logo: /assets/images/badges/purdue.png
   position: >- 
-    Research Intern</br>
-    <b>Supervisor</b>: <a href="https://mypage.cuhk.edu.cn/academics/chentinghuan/">Prof. Chunyi Peng</a>
-  date: Feb. 2024 - Present
+    LLM Researcher</br>
+    <b>Supervisor</b>: <a href="https://research.google/people/105176/?&type=google">Dr. Thang Luong</a>
+  date: Aug. 2025 - Dec. 2025
 
-- name: Michigan State University
-  logo: /assets/images/badges/msu.svg
+- name: Data Garage
+  # logo: /assets/images/badges/msu.svg
   position: >- 
-    Research Assistant</br>
-    <b>Supervisor</b>: <a href="https://www.yuzhe-ma.com/">Prof. Zhichao Cao</a>
-  date: Jun. 2024 - Dec. 2024
+     Software Engineer Intern</br>
+  date: June 2024 – Aug. 2024
+  
+- name: Open Avenues
+  # logo: /assets/images/badges/msu.svg
+  position: >- 
+     Software Engineer Intern</br>
+  date: Feb. 2024 – April 2024
+  
+- name: Fujitsu
+  # logo: /assets/images/badges/msu.svg
+  position: >- 
+     Software Engineer Intern</br>
+  date: May 2023 – July 2023
 
 teaching:
 - name: MTH 133 - Calculus II
