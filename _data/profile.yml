@@ -1,23 +1,18 @@
-primary_name: "Yaohui Han"
+primary_name: "Khang Nguyen"
 secondary_name: ""
-navbar_name: "Yaohui Han"
+navbar_name: "Khang Nguyen"
 
 positions:
-- logo: /assets/images/badges/CUHK.svg
-  name: <strong>Ph.D. Student @ CSE, CUHK</strong>
+# - logo: /assets/images/badges/msu.svg
+  name: <strong>Senior CS Undergead @ MSU</strong>
 
-email: "yhhan25@cse.cuhk.edu.hk"
+email: "nguy1055@msu.edu"
 # cv_link: /assets/images/files/CV_Yaohui.pdf
 gscholar: WPNvcXMAAAAJ
-github: Han-0107
+github: nguyenhuykhang
 # twitter: your_twitter_id
-wechat_qrcode: /assets/images/etc/wechat_qr.jpg
-wechat_prompt: >-
-  <p>请在添加微信好友时，备注上您的<strong>姓名</strong>和<strong>所在单位</strong>，谢谢！</p>
-  <p>Please tell me your <strong>name</strong> and <strong>affiliation</strong> when adding my WeChat. Thanks!</p>
 # linkedin: yaohui-han-379079325
 # orcid: 0009-0007-2201-7283
-address: 9th Floor, Ho Sin-Hang Engineering Building
 short_bio: | 
   <p>Hi! I am Yaohui Han (韩耀辉), a Ph.D. student at <a href="https://www.cse.cuhk.edu.hk/">Department of Computer Science and Engineering</a>, <a href="https://www.cuhk.edu.hk/chinese/index.html">Chinese University of Hong Kong</a>, supervised by <a href="https://tsungyiho.github.io/">Prof. Tsung-Yi Ho</a>. I am also very fortunate to work with <a href="https://www.cse.cuhk.edu.hk/~byu/">Prof. Bei Yu</a> and <a href="https://mypage.cuhk.edu.cn/academics/chentinghuan/">Prof. Tinghuan Chen</a>. Before this, I obtained my bachelor's degree at <a href="https://www.csu.edu.cn/">Central South University</a> and my high school diploma at <a href="https://zh.wikipedia.org/wiki/%E4%B8%9C%E5%8C%97%E8%82%B2%E6%89%8D%E5%AD%A6%E6%A0%A1">Northeast Yucai School</a> in Shenyang.</p>
   <p>During the past years, I have actively participated in several projects and competitions. I won the first National 1st Prize in the Electronic Design Contest in the history of my university. Currently, my research interest is <a href="https://en.wikipedia.org/wiki/Electronic_design_automation">Electronic Design Automation</a> and <a href="https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence">AI + X</a>. I am always looking for potential collaboration opportunities. If you have any idea on research in related fields, please feel free to contact me!</p>
@@ -27,69 +22,66 @@ portrait_url: /assets/images/me.jpg
 #   My beloved electric moped and me
 
 education:
-- name: Chinese University of Hong Kong
-  logo: /assets/images/badges/CUHK.svg
-  position: >- 
-    Ph.D. in Computer Science and Engineering</br>
-    <b>Supervisor</b>: <a href="https://tsungyiho.github.io/">Prof. Tsung-Yi Ho</a> & <a href="https://www.cse.cuhk.edu.hk/~byu/">Prof. Bei Yu</a>
-  date: Aug. 2025 - Jun. 2029
+# - name: Chinese University of Hong Kong
+#   logo: /assets/images/badges/CUHK.svg
+#   position: >- 
+#     Ph.D. in Computer Science and Engineering</br>
+#     <b>Supervisor</b>: <a href="https://tsungyiho.github.io/">Prof. Tsung-Yi Ho</a> & <a href="https://www.cse.cuhk.edu.hk/~byu/">Prof. Bei Yu</a>
+#   date: Aug. 2025 - Jun. 2029
 
-- name: Central South University
-  logo: /assets/images/badges/CSU.svg
+- name: Michigan State University
+  logo: /assets/images/badges/msu.svg
   position: >-
-    B.Sc. in Applied Physics (Major)</br>
-    B.Eng. in Electronic Engineering (Minor)
-  date: Sep. 2021 - Jun. 2025
+    B.Sc. in Computer Science </br>
+    Minor in Data Science and Economics
+  date: 2022 - 2026
 
 experience:
-- name: Chinese University of Hong Kong, Shenzhen
-  logo: /assets/images/badges/CUHK.svg
+- name: Purdue University
+  logo: /assets/images/badges/purdue.png
   position: >- 
-    Research Assistant</br>
-    <b>Supervisor</b>: <a href="https://mypage.cuhk.edu.cn/academics/chentinghuan/">Prof. Tinghuan Chen</a>
+    Research Intern</br>
+    <b>Supervisor</b>: <a href="https://mypage.cuhk.edu.cn/academics/chentinghuan/">Prof. Chunyi Peng</a>
   date: Feb. 2024 - Present
 
-- name: Hong Kong University of Science and Technology, Guangzhou
-  logo: /assets/images/badges/HKUST.svg
+- name: Michigan State University
+  logo: /assets/images/badges/msu.svg
   position: >- 
     Research Assistant</br>
-    <b>Supervisor</b>: <a href="https://www.yuzhe-ma.com/">Prof. Yuzhe Ma</a>
+    <b>Supervisor</b>: <a href="https://www.yuzhe-ma.com/">Prof. Zhichao Cao</a>
   date: Jun. 2024 - Dec. 2024
 
 teaching:
-- name: CENG2030 - Fundamentals of Embedded Systems
-  date: 2026-27
-- name: ENGG2440A - Discrete Mathematics for Engineers
+- name: MTH 133 - Calculus II
   date: 2025-26
+- name: CSE 232 - Introduction to Programming II C++
+  date: 2023-24
+- name: CSE 102 - Algorithmic Thinking and Python Programming 
+  date: 2023
 
-conference_review:
-- name: AAAI Conference on Artificial Intelligence (AAAI)
-  date: 2025
+# conference_review:
+# - name: AAAI Conference on Artificial Intelligence (AAAI)
+#   date: 2025
 
-journal_review:
-- name: IEEE Transactions on Networking (TNET)
-  date: 2024
-- name: IEEE Transactions on Services Computing (TSC)
-  date: 2024
-- name: Information Sciences (INS)
-  date: 2024
+# journal_review:
+# - name: IEEE Transactions on Networking (TNET)
+#   date: 2024
+# - name: IEEE Transactions on Services Computing (TSC)
+#   date: 2024
+# - name: Information Sciences (INS)
+#   date: 2024
 
 awards:
-- name: <strong>Full Postgraduate Scholarship</strong>, The Chinese University of Hong Kong
+- name: <strong>GStar Bootcamp Full Scholarship</strong>, NTI Global Talent Program
   date: 2025
-- name: <strong>Outstanding Graduate</strong>, Central South University
+- name: <strong>Summer Undergraduate Research Fellowships</strong>, Purdue University
   date: 2025
-- name: <strong>National Scholarship</strong><small> (Top 0.2%)</small>, Education Ministry of PRC
+- name: <strong>Engineering Summer Undergraduate Research Fellowships</strong>, Michigan State University
   date: 2024
-- name: <strong>Bronze Medal</strong>, NeurIPS Competition
+- name: <strong>Honors College Winters Research Scholars</strong>, Michigan State University
   date: 2024
-- name: <strong>Silver Medal</strong>, Kaggle Competition
+- name: <strong>Honors College Wielenga Research Scholars</strong>, Michigan State University
   date: 2023
-- name: <strong>National 1st Prize</strong>, National Electronic Design Contest
-  date: 2023
-- name: <strong>National 1st Prize</strong>, National Physics Experiment Contest
-  date: 2023
-- name: <strong>Provincial 1st Prize</strong>, National Mathematical Contest in Modeling
-  date: 2023
-- name: <strong>Innovation Scholarship</strong>, GEM Co., Ltd.
-  date: 2023
+- name: <strong>Dean’s List</strong>, Michigan State University
+  date: 2022-25
+
