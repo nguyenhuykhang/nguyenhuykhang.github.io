@@ -3,24 +3,24 @@ secondary_name: ""
 navbar_name: "Khang Nguyen"
 
 positions:
-# - logo: /assets/images/badges/msu.svg
+- logo: /assets/images/badges/msu.svg
   name: <strong>Senior CS Undergrad @ MSU</strong>
-
+  
 email: "nguy1055@msu.edu"
 # cv_link: /assets/images/files/CV_Yaohui.pdf
 gscholar: Y4-tbi0AAAAJ
 github: nguyenhuykhang
 # twitter: your_twitter_id
-# linkedin: yaohui-han-379079325
+linkedin: khang-nguyen-70344b212
 # orcid: 0009-0007-2201-7283
 short_bio: | 
   <p>Hi! I am Khang Nguyen, a senior undergraduate in Computer Science at <a href="https://msu.edu/">Michigan State University (MSU)</a>. I have had the wonderful opportunity to be advised by <a href="https://cse.msu.edu/~caozc/">Dr. Zhichao Cao</a> in the Edge Intelligence and Networking (EIN) group, and I also collaborate with <a href="https://mi-zhang.github.io/index.html">Dr. Mi Zhang</a> at OSU AIoT.</p>
   <p>I have also worked with <a href="https://cse.msu.edu/~qyan/">Dr. Qiben Yan</a> in the SEcure and Intelligent Things (SEIT) Lab. In Summer 2025, I interned with <a href="https://www.cs.purdue.edu/homes/chunyi/index.html">Dr. Chunyi Peng</a> at the Purdue Mobile System, Security and Networking (MSSN) Group.</p>
-  <p>My research interests span Physical AI, AIoT (AI + IoT), and AI security in autonomous driving. Currently, I am working on diffusion models for radar imaging and exploring the robustness of AI and vision-language models (VLMs) in autonomous driving scenarios. I am always open to collaboration opportunities—feel free to reach out!</p>
+  <p>My research interests span Physical AI, AIoT (AI + IoT), and AI security in autonomous driving. Currently, I am working on diffusion models for radar imaging and exploring the robustness of AI and vision-language models (VLMs) in autonomous driving scenarios. I am always open to collaboration opportunities, feel free to reach out!</p>
 portrait_url: /assets/images/headshot_linkedin.jpeg
 # portrait_caption: >-
 #   My beloved electric moped and me
-
+address: East Lansing, MI, USA
 education:
 # - name: Chinese University of Hong Kong
 #   logo: /assets/images/badges/CUHK.svg
