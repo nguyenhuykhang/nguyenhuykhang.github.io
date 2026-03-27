@@ -24,5 +24,5 @@ authors:
 
 
 links:
-  Paper: [https://www.sciencedirect.com/science/article/pii/S0020025525008266](https://dl.acm.org/doi/pdf/10.1145/3680207.3765241)
+  Paper: https://dl.acm.org/doi/pdf/10.1145/3680207.3765241
 ---
