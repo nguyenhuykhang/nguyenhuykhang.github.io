@@ -1,7 +1,7 @@
 ---
 show: true
-width: 3
-height: 600px
+width: 8
+height: 500px
 date: 2028-09-12 00:01:00 +0800
 images:
 - src: assets/images/marv2-26/chi22.JPG
