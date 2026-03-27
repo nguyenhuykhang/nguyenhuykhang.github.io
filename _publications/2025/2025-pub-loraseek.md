@@ -12,15 +12,15 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-info">Jo
 #   A combined navigation system for efficient collaboration between BDS and INS built through RISC-V-based architecture.
 cover: /assets/images/covers/PUWR.jpg
 authors:
-- Khang Nguyen
-- Yidong Ren
-- Jialuo Du
-- Jingkai Lin
-- Maolin Gan
-- Shigang Chen
-- Mi Zhang
-- Chunyi Peng
-- Zhichao Cao
+  - Khang Nguyen
+  - Yidong Ren
+  - Jialuo Du
+  - Jingkai Lin
+  - Maolin Gan
+  - Shigang Chen
+  - Mi Zhang
+  - Chunyi Peng
+  - Zhichao Cao
 
 
 links:
