@@ -2,7 +2,7 @@
 show: true
 width: 3
 date: 2028-09-12 00:01:00 +0800
-height: 250
+height: 250px
 images:
 - src: assets/images/marv2-26/chi22.JPG
 - src: assets/images/marv2-26/chovinh.jpg
