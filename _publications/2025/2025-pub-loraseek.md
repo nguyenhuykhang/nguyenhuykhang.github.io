@@ -2,15 +2,15 @@
 title:          "LoRaSeek: Boosting Denoising Ability in Neural-enhanced LoRa Decoder via Hierarchical Feature Extraction"
 date:           2025-11-4
 selected:       false
-pub:            "International Conference on Mobile Computing and Networking (MobiCom)"
+pub:            "International Conference on Mobile Computing and Networking (MobiCom), Acceptance Rate: 10.34%"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-info">Journal</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">A* Conference</span>''
 # pub_date:       "2025"
 
 # abstract: >-
-#   A combined navigation system for efficient collaboration between BDS and INS built through RISC-V-based architecture.
-cover: /assets/images/covers/PUWR.jpg
+#   Neural-enhanced LoRa Decoder via Hierarchical Feature Extraction.
+cover: /assets/images/covers/loraseek.png
 authors:
   - Khang Nguyen
   - Yidong Ren
