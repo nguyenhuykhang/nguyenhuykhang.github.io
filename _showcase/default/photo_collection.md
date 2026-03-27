@@ -1,8 +1,8 @@
 ---
 show: true
-width: 4
+width: 3
 date: 2028-09-12 00:01:00 +0800
-height: 295px
+height: 250
 images:
 - src: assets/images/paintings/2023-10-15-110630.jpg 
 - src: assets/images/paintings/2023-10-1.png
