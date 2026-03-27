@@ -1,7 +1,7 @@
 ---
 title:          "CommonLID: Re-evaluating State-of-the-Art Language Identification Performance on Web Data"
 date:           2026-04-02
-selected:       true
+selected:       false
 pub:            "Under Review"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
