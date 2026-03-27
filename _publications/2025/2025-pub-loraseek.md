@@ -1,7 +1,7 @@
 ---
 title:          "LoRaSeek: Boosting Denoising Ability in Neural-enhanced LoRa Decoder via Hierarchical Feature Extraction"
 date:           2025-11-4
-selected:       false
+selected:       true
 pub:            "International Conference on Mobile Computing and Networking (MobiCom), Acceptance Rate: 10.34%"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
