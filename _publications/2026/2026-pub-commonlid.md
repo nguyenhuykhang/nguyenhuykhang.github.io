@@ -14,5 +14,5 @@ cover: /assets/images/covers/commonlid.png
 authors:
   - Many Authors
 links:
-  Paper: https://arxiv.org/pdf/2601.18026)
+  Paper: https://arxiv.org/pdf/2601.18026
 ---
