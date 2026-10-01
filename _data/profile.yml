@@ -3,7 +3,9 @@ secondary_name: ""
 navbar_name: "Khang Nguyen"
 
 positions:
-- logo: /assets/images/badges/ucla.png
+- logos:
+  - /assets/images/badges/ucla.png
+  - /assets/images/badges/msu.svg
   name: <strong>Ph.D. Student @ UCLA</strong>
   
 email: "ngkhang@ucla.edu"

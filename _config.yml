@@ -13,7 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+url: "https://nguyenhuykhang.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
+description: "Khang Nguyen is a Ph.D. student in Electrical and Computer Engineering at UCLA working on Mobile Systems, Security and Networking (MSSN)."
 
 # Build settings
 markdown: kramdown

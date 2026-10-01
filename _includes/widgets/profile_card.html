@@ -10,6 +10,9 @@
                             {% if position.logo -%}
                             <img src="{{ position.logo | relative_url }}" alt="Logo" class="inline-badge"/>
                             {%- endif %}
+                            {% for logo in position.logos -%}
+                            <img src="{{ logo | relative_url }}" alt="Logo" class="inline-badge"/>
+                            {%- endfor %}
                             {{ position.name }}<br/>
                             {% endfor %}
                         </p>
