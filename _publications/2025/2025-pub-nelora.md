@@ -10,7 +10,7 @@ pub_last:       '<span class="badge badge-pill badge-publication badge-info">Jou
 
 # abstract: >-
 #   Camera radar attack
-cover: /assets/images/covers/msu_logo.jpg
+cover: /assets/images/covers/nelora.png
 authors:
   - Maolin Gan*
   - Khang Nguyen*
