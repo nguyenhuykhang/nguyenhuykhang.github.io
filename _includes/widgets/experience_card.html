@@ -70,32 +70,25 @@
                     </div>
                     {% endif %}
 
-                    {% if site.data.profile.conference_review %}
+                    {% if site.data.profile.pc_member or site.data.profile.conference_review or site.data.profile.journal_review or site.data.profile.teaching %}
                         <div class="col-md-6">
                             <div class="mx-2 my-1">
                                 <h6>Academic Services</h6>
-                                <h6 style="font-size: 0.875rem;">Conference Review</h6>
+                                {% if site.data.profile.pc_member or site.data.profile.conference_review or site.data.profile.journal_review %}
+                                <h6 style="font-size: 0.875rem;">Reviewer</h6>
                                 <ul class="list small pl-3 mb-1">
-                                    {% for item in site.data.profile.conference_review %}
-                                    <li>
-                                        <div class="d-flex">
-                                            <div>{{ item.name }}</div>
-                                            <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
-                                        </div>
-                                    </li>
-                                    {% endfor %}
+                                    {% if site.data.profile.conference_review %}
+                                    <li><strong>Conference:</strong> {{ site.data.profile.conference_review | join: ", " }}</li>
+                                    {% endif %}
+                                    {% if site.data.profile.journal_review %}
+                                    <li><strong>Journal:</strong> {{ site.data.profile.journal_review | join: ", " }}</li>
+                                    {% endif %}
+                                    {% if site.data.profile.pc_member %}
+                                    <li><strong>PC Member:</strong> {{ site.data.profile.pc_member | join: ", " }}</li>
+                                    {% endif %}
                                 </ul>
-                                <h6 style="font-size: 0.875rem;">Journal Review</h6>
-                                <ul class="list small pl-3 mb-1">
-                                    {% for item in site.data.profile.journal_review %}
-                                    <li>
-                                        <div class="d-flex">
-                                            <div>{{ item.name }}</div>
-                                            <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
-                                        </div>
-                                    </li>
-                                    {% endfor %}
-                                </ul>
+                                {% endif %}
+                                {% if site.data.profile.teaching %}
                                 <h6 style="font-size: 0.875rem;">Teaching</h6>
                                 <ul class="list small pl-3 mb-1">
                                     {% for item in site.data.profile.teaching %}
@@ -107,6 +100,7 @@
                                     </li>
                                     {% endfor %}
                                 </ul>
+                                {% endif %}
                             </div>
                         </div>
                     {% endif %}

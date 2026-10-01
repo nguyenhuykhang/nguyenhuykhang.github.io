@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 url: "https://nguyenhuykhang.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
-description: "Khang Nguyen is a Ph.D. student in Electrical and Computer Engineering at UCLA working on Mobile Systems, Security and Networking (MSSN)."
+description: "Khang Nguyen is a Ph.D. student in Electrical and Computer Engineering at UCLA and a Computer Science graduate of Michigan State University (MSU), working on Mobile Systems, Security and Networking (MSSN)."
 
 # Build settings
 markdown: kramdown

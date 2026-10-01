@@ -16,9 +16,10 @@ github: nguyenhuykhang
 linkedin: khang-nguyen-70344b212
 # orcid: 0009-0007-2201-7283
 short_bio: | 
-  <p>Hi! I am Khang Nguyen, a recent Computer Science graduate from <a href="https://msu.edu/">Michigan State University (MSU)</a> with a perfect 4.0 GPA and the <a href="https://engineering.msu.edu/news/trustees-honor-34-spartan-engineers-40-gpa-excellence">Board of Trustees’ Award</a>. I have had the wonderful opportunity to be advised by <a href="https://cse.msu.edu/~caozc/">Dr. Zhichao Cao</a> in the Edge Intelligence and Networking (EIN) group, and I also collaborate with <a href="https://mi-zhang.github.io/index.html">Dr. Mi Zhang</a> at OSU AIoT.</p>
-  <p>I have also worked with <a href="https://cse.msu.edu/~qyan/">Dr. Qiben Yan</a> in the SEcure and Intelligent Things (SEIT) Lab. In Summer 2025, I interned with <a href="https://www.cs.purdue.edu/homes/chunyi/index.html">Dr. Chunyi Peng</a> at the Purdue Mobile System, Security and Networking (MSSN) Group.</p>
-  <p>My research interests span Physical AI and Robotics. I am always open to collaboration opportunities, feel free to reach out!</p>
+  <p>Hi! I am Khang, a Ph.D. student at UCLA, advised by <a href="https://scholar.google.com/citations?user=X2Qs7XYAAAAJ&hl=en">Dr. Mani Srivastava</a>. My research interests span Physical AI, robotics, and embodied intelligence.</p>
+  <p>I received my B.S. in Computer Science from Michigan State University (MSU) with a 4.0 GPA and the <a href="https://engineering.msu.edu/news/trustees-honor-34-spartan-engineers-40-gpa-excellence">Board of Trustees' Award</a>. At MSU, I was advised by <a href="https://cse.msu.edu/~caozc/">Dr. Zhichao Cao</a> in the Edge Intelligence and Networking (EIN) group and collaborated with <a href="https://mi-zhang.github.io/index.html">Dr. Mi Zhang</a> at OSU AIoT. I also worked with <a href="https://cse.msu.edu/~qyan/">Dr. Qiben Yan</a> in the SEcure and Intelligent Things (SEIT) Lab.</p>
+  <p>In Summer 2025, I interned with <a href="https://www.cs.purdue.edu/homes/chunyi/index.html">Dr. Chunyi Peng</a> in the Mobile Systems, Security, and Networking (MSSN) Group at Purdue University.</p>
+  <p>I am always open to research collaborations and new ideas, feel free to reach out!</p>
 portrait_url: /assets/images/headshot_melia.jpg
 # portrait_caption: >-
 #   My beloved electric moped and me
@@ -37,7 +38,15 @@ education:
     Minor in Data Science and Economics
   date: 2022 - 2026
 
+
 experience:
+- name: VinRobotics
+  # logo: /assets/images/badges/purdue.png
+  position: >- 
+    Research Engineer Intern</br>
+    <b>Supervisor</b>: <a href="https://anindex.github.io/">Dr. An T. Le</a> and <a href="https://scholar.google.com/citations?user=hG-4CgwAAAAJ&hl=en">Dr. Huan Nguyen</a>
+  date: June 2026 - Present
+
 - name: New Turing Institute
   # logo: /assets/images/badges/purdue.png
   position: >- 
@@ -63,27 +72,30 @@ experience:
      Software Engineer Intern</br>
   date: May 2023 – July 2023
 
-teaching:
-- name: MTH 133 - Calculus II
-  date: 2025-26
-- name: CSE 232 - Introduction to Programming II C++
-  date: 2023-24
-- name: CSE 102 - Algorithmic Thinking and Python Programming 
-  date: 2023
+# teaching:
+# - name: MTH 133 - Calculus II
+#   date: 2025-26
+# - name: CSE 232 - Introduction to Programming II C++
+#   date: 2023-24
+# - name: CSE 102 - Algorithmic Thinking and Python Programming 
+#   date: 2023
 
-# conference_review:
-# - name: AAAI Conference on Artificial Intelligence (AAAI)
-#   date: 2025
+conference_review:
+- ICRA
+# - AAAI
 
 # journal_review:
-# - name: IEEE Transactions on Networking (TNET)
-#   date: 2024
-# - name: IEEE Transactions on Services Computing (TSC)
-#   date: 2024
-# - name: Information Sciences (INS)
-#   date: 2024
+# - TMC
+# - TNET
+# - TSC
+# - INS
+
+pc_member:
+- IEEE MSN
 
 awards:
+- name: <strong>Board of Trustees' Award</strong>, Michigan State University
+  date: 2026
 - name: <strong>GStar Bootcamp Full Scholarship</strong>, NTI Global Talent Program
   date: 2025
 - name: <strong>Summer Undergraduate Research Fellowships</strong>, Purdue University
