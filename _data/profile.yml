@@ -3,10 +3,10 @@ secondary_name: ""
 navbar_name: "Khang Nguyen"
 
 positions:
-- logo: /assets/images/badges/msu.svg
-  name: <strong>Senior CS Undergrad @ MSU</strong>
+- logo: /assets/images/badges/ucla.png
+  name: <strong>Ph.D. Student @ UCLA</strong>
   
-email: "nguy1055@msu.edu"
+email: "ngkhang@ucla.edu"
 # cv_link: /assets/images/files/CV_Yaohui.pdf
 gscholar: Y4-tbi0AAAAJ
 github: nguyenhuykhang
@@ -20,14 +20,13 @@ short_bio: |
 portrait_url: /assets/images/headshot_melia.jpg
 # portrait_caption: >-
 #   My beloved electric moped and me
-address: East Lansing, MI, USA
+address: Los Angeles, CA, USA
 education:
-# - name: Chinese University of Hong Kong
-#   logo: /assets/images/badges/CUHK.svg
-#   position: >- 
-#     Ph.D. in Computer Science and Engineering</br>
-#     <b>Supervisor</b>: <a href="https://tsungyiho.github.io/">Prof. Tsung-Yi Ho</a> & <a href="https://www.cse.cuhk.edu.hk/~byu/">Prof. Bei Yu</a>
-#   date: Aug. 2025 - Jun. 2029
+- name: University of California, Los Angeles
+  logo: /assets/images/badges/ucla.png
+  position: >- 
+    Ph.D. in Electrical and Computer Engineering</br>
+  date: 2026 - Present
 
 - name: Michigan State University
   logo: /assets/images/badges/msu.svg
