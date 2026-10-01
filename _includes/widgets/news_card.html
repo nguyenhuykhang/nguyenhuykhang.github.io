@@ -57,24 +57,12 @@
         var totalDisplayed = 0;
     
         if (selectedYear === 'recent') {
-            // Iterate through each year and each item inside those years
-            newsYears.forEach(function(newsYear) {
-                var items = newsYear.querySelectorAll('.news-item');
-                var yearHasVisibleItems = false;
-    
-                // Check each news item within the current year
-                items.forEach(function(newsItem) {
-                    if (totalDisplayed < limit) {
-                        newsItem.style.display = 'block';
-                        totalDisplayed++;
-                        yearHasVisibleItems = true;
-                    } else {
-                        newsItem.setAttribute('style', 'display: none !important;');
-                    }
+            // Show only the latest year that has news (years are sorted newest first)
+            newsYears.forEach(function(newsYear, index) {
+                newsYear.style.display = index === 0 ? 'block' : 'none';
+                newsYear.querySelectorAll('.news-item').forEach(function(newsItem) {
+                    newsItem.style.display = 'block';
                 });
-    
-                // Show the year if any items were displayed from it
-                newsYear.style.display = yearHasVisibleItems ? 'block' : 'none';
             });
         } else if (selectedYear === 'older') {
             // Show all news items that are older than the two most recent years

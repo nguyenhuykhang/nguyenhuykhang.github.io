@@ -18,7 +18,7 @@ linkedin: khang-nguyen-70344b212
 # orcid: 0009-0007-2201-7283
 short_bio: | 
   <p>Hi! I am Khang, a Ph.D. student at UCLA, advised by <a href="https://scholar.google.com/citations?user=X2Qs7XYAAAAJ&hl=en">Dr. Mani Srivastava</a>. My research interests span Physical AI, robotics, and embodied intelligence.</p>
-  <p>I received my B.S. in Computer Science from Michigan State University (MSU) with a 4.0 GPA and the <a href="https://engineering.msu.edu/news/trustees-honor-34-spartan-engineers-40-gpa-excellence">Board of Trustees' Award</a>. At MSU, I was advised by <a href="https://cse.msu.edu/~caozc/">Dr. Zhichao Cao</a> in the Edge Intelligence and Networking (EIN) group and collaborated with <a href="https://mi-zhang.github.io/index.html">Dr. Mi Zhang</a> at OSU AIoT. I also worked with <a href="https://cse.msu.edu/~qyan/">Dr. Qiben Yan</a> in the SEcure and Intelligent Things (SEIT) Lab.</p>
+  <p>I received my B.S. in Computer Science from Michigan State University (MSU) with a 4.0 GPA and the <a href="https://engineering.msu.edu/news/trustees-honor-34-spartan-engineers-40-gpa-excellence">Board of Trustees' Award</a>. At MSU, I was advised by <a href="https://cse.msu.edu/~caozc/">Dr. Zhichao Cao</a> in the Edge Intelligence and Networking (EIN) group and collaborated with <a href="https://mi-zhang.github.io/index.html">Dr. Mi Zhang</a> at <img src="/assets/images/badges/osu.jpg" alt="OSU" class="inline-badge"/>OSU. I also worked with <a href="https://cse.msu.edu/~qyan/">Dr. Qiben Yan</a> in the SEcure and Intelligent Things (SEIT) Lab.</p>
   <p>In Summer 2025, I interned with <a href="https://www.cs.purdue.edu/homes/chunyi/index.html">Dr. Chunyi Peng</a> in the Mobile Systems, Security, and Networking (MSSN) Group at Purdue University.</p>
   <p>I am always open to research collaborations and new ideas, feel free to reach out!</p>
 portrait_url: /assets/images/headshot_melia.jpg
@@ -42,33 +42,33 @@ education:
 
 experience:
 - name: VinRobotics
-  # logo: /assets/images/badges/purdue.png
+  logo: /assets/images/badges/vr.png
   position: >- 
     Research Engineer Intern</br>
     <b>Supervisor</b>: <a href="https://anindex.github.io/">Dr. An T. Le</a> and <a href="https://scholar.google.com/citations?user=hG-4CgwAAAAJ&hl=en">Dr. Huan Nguyen</a>
   date: June 2026 - Present
 
 - name: New Turing Institute
-  # logo: /assets/images/badges/purdue.png
+  logo: /assets/images/badges/nti.png
   position: >- 
     LLM Researcher</br>
     <b>Supervisor</b>: <a href="https://research.google/people/105176/?&type=google">Dr. Thang Luong</a>
   date: Aug. 2025 - Dec. 2025
 
 - name: Data Garage
-  # logo: /assets/images/badges/msu.svg
+  logo: /assets/images/badges/dg.jpeg
   position: >- 
      Software Engineer Intern</br>
   date: June 2024 – Aug. 2024
   
 - name: Meridian Capital Group
-  # logo: /assets/images/badges/msu.svg
+  logo: /assets/images/badges/meridian.jpg
   position: >- 
      Software Engineer Intern</br>
   date: Feb. 2024 – April 2024
   
 - name: Fujitsu
-  # logo: /assets/images/badges/msu.svg
+  logo: /assets/images/badges/fujitsu.png
   position: >- 
      Software Engineer Intern</br>
   date: May 2023 – July 2023
